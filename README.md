@@ -1,1 +1,2 @@
-This is your Chrome extension which replaces skype with callto
+skype2callto
+Chrome Plugin to replace skype links with callto links
